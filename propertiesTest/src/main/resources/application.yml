@@ -1,0 +1,13 @@
+
+spring:
+  datasource:
+    jdbc-url: jdbc:mysql://localhost/firstdatasource
+    username: root
+    password:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+
+  datasource2:
+    jdbc-url: jdbc:mysql://localhost/seconddatasource
+    username: root
+    password:
+    driver-class-name: com.mysql.cj.jdbc.Driver
